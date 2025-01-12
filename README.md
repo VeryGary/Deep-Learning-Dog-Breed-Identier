@@ -1,3 +1,4 @@
+![Banner](https://github.com/VeryGary/Deep-Learning-Dog-Breed-Identifier/blob/main/banner-dogvision.png)
 # Dog Breed Classification Using Deep Learning
 This project involves building a deep learning model capable of classifying dog breeds from images. The program leverages TensorFlow and Keras to train and evaluate a model that predicts the breed of a dog from a set of 120 potential categories.
 
@@ -25,6 +26,8 @@ The dataset includes the following key attributes:
 **Early Stopping**: A callback function halts training when the validation loss stops improving, preventing overfitting.
 
 ## Process Overview
+
+![Results Preview](https://github.com/VeryGary/Deep-Learning-Dog-Breed-Identifier/blob/main/deep-learning-dog-sample.png)
 
 ### 1. Data Preparation
 **Image Preprocessing**:
